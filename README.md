@@ -1,0 +1,1 @@
+This model, https://huggingface.co/IreNkweke/HamOrSpamModel from Hugging Face, powers a FastAPI microservice integrated with a Django review platform, where it automatically classifies user-submitted reviews as spam or non-spam to support content moderation.
